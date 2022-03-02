@@ -4,5 +4,6 @@ module.exports = {
       title: `new`,
     siteUrl: `https://www.yourdomain.tld`
   },
+  pathPrefix: "/gatsby-tutorial",
   plugins: ["gatsby-plugin-sass"]
 };
